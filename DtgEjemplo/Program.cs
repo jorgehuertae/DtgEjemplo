@@ -11,7 +11,7 @@ namespace DtgEjemplo
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frm_07_Add_Image_To_Datagridview_From_PictureBox());
+            Application.Run(new frm_17_txt_to_dgv());
         }
     }
 }
